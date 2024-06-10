@@ -71,6 +71,7 @@ HTML, CSS, JavaScript, Bootstrap, React, Node.js, Express, and MySQL.
 
 ---
 
-## Resume
 
-[Scan the QR code to view my resume]((https://share.icloud.com/photos/025EjG5XDVV8QfsAy75NYublA))
+
+
+
