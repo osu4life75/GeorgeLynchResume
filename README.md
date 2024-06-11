@@ -1,8 +1,6 @@
 # George Lynch
 ## Quality Assurance Analyst/Software Developer
 
-[Download My Resume](https://osu4life75.github.io/GeorgeLynchResume/)
-
 ---
 
 ### EXPERIENCE
@@ -31,4 +29,42 @@ Full Stack Web Developer – Udemy | Github – Udemy | Software Testing - Udemy
 ### PROJECTS
 
 **EMPLOYEEDASHBOARD2**  
-[GitHub Repository](https://github.com/osu4life75/emp
+[GitHub Repository](https://github.com/osu4life75/employeeDashBoard2)  
+Technology Used: HTML, CSS, Bootstrap, JavaScript, Node.js, and MySQL.
+
+**Coffee Shop**  
+[Live Project](https://silver-melomakarona-0f3505.netlify.app/)  
+Technology Used: JSX, Bootstrap, CSS, React, NPM, Node.js, and MySQL
+
+[GitHub Repository](https://github.com/osu4life75)
+
+---
+
+### CONTACT
+
+**LinkedIn:** [www.linkedin.com/in/george-lynch-781354148](https://www.linkedin.com/in/george-lynch-781354148)  
+**Phone:** (405) 982-1965  
+**Email:** osu4life75@gmail.com
+
+---
+
+### SKILLS
+
+- Software Testing
+- Bug Tracking and Reporting
+- GitHub Version Control
+- Project Collaboration
+
+---
+
+### ACTIVITIES
+
+- **Mentee:** Worked with a Mentor for One year.
+- **Mentor:** Volunteered with Ok Coders. Helping others learn HTML, CSS, JavaScript, and React JS.
+- **Collaboration:** Volunteered with Oklathon to help get the 200ok Conference Website updated.
+
+---
+
+### TECHNOLOGY
+
+HTML, CSS, JavaScript, Bootstrap, React, Node.js, Express, and MySQL.
