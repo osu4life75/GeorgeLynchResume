@@ -10,7 +10,7 @@
 Conduct thorough software testing to identify and rectify defects, ensuring the release of bug-free products; Perform regression tests to guarantee ongoing functionality and adherence to specifications; Accurately report bugs and defects, facilitating prompt resolution; Collaborate with developers to verify software integrity and functionality.
 
 **Paycom, Oklahoma City — Safety Attendant**  
-*Month 20XX - Month 20XX*  
+*December 2022 - June 2023*  
 Thorough inspection of the building to ensure adequate safety for the associates. Associate inspections upon entry for contraband items that may cause harm to other associates.
 
 ---
